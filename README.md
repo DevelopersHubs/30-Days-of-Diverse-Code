@@ -9,7 +9,7 @@ visit <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">
 
 ### Getting Started
 
-- clone the repository using `git clone https://github.com/City-solutions/30-Days-Of-Fun.git`
+- clone the repository using `git clone https://github.com/DevelopersHubs/30-Days-of-Diverse-Code.git`
 - checkout to a new branch corresponding to your name with ` git checkout -b <yourusername>`
 - stage your changes using `git add <filename>`
 - commit your changes using `git commit -m "feat: descriptive message here"`
