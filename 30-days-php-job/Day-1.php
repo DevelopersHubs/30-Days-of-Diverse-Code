@@ -1,3 +1,8 @@
+
+
+
+
+
 <?php
 $handle = fopen ("php://stdin","r");
 $i = 4;
