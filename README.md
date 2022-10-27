@@ -22,9 +22,9 @@ Tasks -
 | --- | --- | --- | --- |
 | 1 | Hello World \ Data Types | https://www.hackerrank.com/challenges/30-hello-world/problem You've Got This! | :heavy_check_mark: |
 | 2 | Operators | https://www.hackerrank.com/challenges/30-data-types/problem You've Got This! | :heavy_check_mark: |
-| 3 | Conditionals | https://www.hackerrank.com/challenges/30-conquer-conditionals/problem You've Got This! | :heavy_check_mark: |
-| 4 | classes Vs Instance | https://www.hackerrank.com/challenges/30-classes-vs-instances/problem You've Got This! | :heavy_check_mark: |
-| 5 | Loop | https://www.hackerrank.com/challenges/30-loop/problem You've Got This! | :heavy_check_mark: |
-| 6 | operators,strings,and loops | https://www.hackerrank.com/challenges/30-operators-strings-loops/problem You've Got This! | :heavy_check_mark: |
-| 7 | Arrays | https://www.hackerrank.com/challenges/30-array/problem You've Got This! | :heavy_check_mark: |
-| 8 | Dictionary | https://www.hackerrank.com/challenges/30-phone-a-friend/problem You've Got This! | :heavy_check_mark: |
+| 3 | Conditionals | https://www.hackerrank.com/challenges/30-conditional-statements/problem You've Got This! | :heavy_check_mark: |
+| 4 | classes Vs Instance | https://www.hackerrank.com/challenges/30-class-vs-instance/problem You've Got This! | :heavy_check_mark: |
+| 5 | Loop | https://www.hackerrank.com/challenges/30-loops/problem You've Got This! | :heavy_check_mark: |
+| 6 | operators,strings,and loops |https://www.hackerrank.com/challenges/30-review-loop/problem You've Got This! | :heavy_check_mark: |
+| 7 | Arrays | https://www.hackerrank.com/challenges/30-arrays/problem You've Got This! | :heavy_check_mark: |
+| 8 | Dictionary | https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem You've Got This! | :heavy_check_mark: |
