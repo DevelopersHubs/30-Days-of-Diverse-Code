@@ -28,3 +28,6 @@ Tasks -
 | 6 | operators,strings,and loops |https://www.hackerrank.com/challenges/30-review-loop/problem You've Got This! | :heavy_check_mark: |
 | 7 | Arrays | https://www.hackerrank.com/challenges/30-arrays/problem You've Got This! | :heavy_check_mark: |
 | 8 | Dictionary | https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem You've Got This! | :heavy_check_mark: |
+| 9 | Recursion | https://www.hackerrank.com/challenges/30-recursion/problem You've Got This! | :heavy_check_mark: |
+| 10 | Binary Numbers | https://www.hackerrank.com/challenges/30-binary-numbers/problem You've Got This! | :heavy_check_mark: |
+| 11 | 2D Arrays | https://www.hackerrank.com/challenges/30-binary-numbers/problem You've Got This! | :heavy_check_mark: |
