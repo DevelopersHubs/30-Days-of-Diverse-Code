@@ -38,3 +38,4 @@ Tasks -
 | 17 | More Exceptions | https://www.hackerrank.com/challenges/30-more-exceptions/problem You've Got This! | :heavy_check_mark: |
 | 18 | Queues and Stacks | https://www.hackerrank.com/challenges/30-queues-stacks/problem You've Got This! | :heavy_check_mark: |
 | 19 | Interfaces | https://www.hackerrank.com/challenges/30-interfaces/problemYou've Got This! | :heavy_check_mark: |
+| 20 | Sorting | https://www.hackerrank.com/challenges/30-sorting/problem You've Got This! | :heavy_check_mark: |
