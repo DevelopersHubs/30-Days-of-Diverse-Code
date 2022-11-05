@@ -32,3 +32,9 @@ Tasks -
 | 11 | 2D Arrays | https://www.hackerrank.com/challenges/30-binary-numbers/problem You've Got This! | :heavy_check_mark: |
 | 12 | Inheritance | https://www.hackerrank.com/challenges/30-inheritance/problem You've Got This! | :heavy_check_mark: |
 | 13 | Abstract Classes | https://www.hackerrank.com/challenges/30-abstract-classes/problem You've Got This! | :heavy_check_mark: |
+| 14 | Scope |https://www.hackerrank.com/challenges/30-scope/problem You've Got This! | :heavy_check_mark: |
+| 15 | Linked list | https://www.hackerrank.com/challenges/30-linked-list/problem You've Got This! | :heavy_check_mark: |
+| 16 | Exceptions - Strings to Intergers | https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problemYou've Got This! | :heavy_check_mark: |
+| 17 | More Exceptions | https://www.hackerrank.com/challenges/30-more-exceptions/problemYou've Got This! | :heavy_check_mark: |
+| 18 | Queues and Stacks | https://www.hackerrank.com/challenges/30-queues-stacks/problemYou've Got This! | :heavy_check_mark: |
+| 19 | Linked list | https://www.hackerrank.com/challenges/30-interfaces/problem You've Got This! | :heavy_check_mark: |
