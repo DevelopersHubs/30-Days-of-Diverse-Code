@@ -39,3 +39,5 @@ Tasks -
 | 18 | Queues and Stacks | https://www.hackerrank.com/challenges/30-queues-stacks/problem You've Got This! | :heavy_check_mark: |
 | 19 | Interfaces | https://www.hackerrank.com/challenges/30-interfaces/problemYou've Got This! | :heavy_check_mark: |
 | 20 | Sorting | https://www.hackerrank.com/challenges/30-sorting/problem You've Got This! | :heavy_check_mark: |
+| 21 | Generics |https://www.hackerrank.com/challenges/30-generics/problem You've Got This! | :heavy_check_mark: |
+| 22 | Binary Search Tress | https://www.hackerrank.com/challenges/30-binary-search-trees/problem You've Got This! | :heavy_check_mark: |
